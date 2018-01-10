@@ -7,4 +7,4 @@
 
 --------
 
-Once you ar done tell Itamar.
+Once you are done tell Itamar.
