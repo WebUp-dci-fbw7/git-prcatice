@@ -1,3 +1,1 @@
-hi, I´m Pilar again...
-jürgen changed fayads file
-king fayad is a good friend of mine
+hi hi from Said
