@@ -1,3 +1,7 @@
 Hallo Said, i am wakil
 
-Hellod! (Mihnea)
+Hello Said! (Mihnea)
+hi said
+ghost
+i am fayad
+hello said i am fayad
