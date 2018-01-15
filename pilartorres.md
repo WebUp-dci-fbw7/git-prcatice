@@ -1,1 +1,3 @@
-Hello Pilar (Mihnea)
+<<<<<<< HEAD
+hello pilar
+wahts up 
