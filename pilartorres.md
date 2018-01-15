@@ -1,7 +1,7 @@
+Pilar jckdcdncndncndkcndkdc
+lo pilar
 <<<<<<< HEAD
-hello pilar
-<<<<<<< HEAD
-wahts up 
+wahts up
 
 What is the next step?
 =======
