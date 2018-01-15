@@ -1,5 +1,10 @@
-<<<<<<< HEAD
+
 hallo
+im not ghost any more
 =======
+
 hi iam ghost
->>>>>>> f20e28ed47ffc2213c9be34900a1c6c2806d1b29
+
+-_-._.-:_-:_._:__._-.-#:_#.#.-
+>>>>>>> 9c5f6477bed665ef86760e6ddb910f0844c2cfd2
+ :(
